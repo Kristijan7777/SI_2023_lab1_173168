@@ -1,0 +1,28 @@
+Kristijan@DESKTOP-S8ICLHE MINGW64 ~/Desktop/SI_2023_lab1_173168 (master)
+$ git add .
+
+Kristijan@DESKTOP-S8ICLHE MINGW64 ~/Desktop/SI_2023_lab1_173168 (master)
+$ git commit -m "Add java class"
+[master 3368c97] Add java class
+ 6 files changed, 99 insertions(+)
+ create mode 100644 173168/.gitignore
+ create mode 100644 173168/.idea/.gitignore
+ create mode 100644 173168/.idea/misc.xml
+ create mode 100644 173168/.idea/modules.xml
+ create mode 100644 173168/src/Main.java
+ create mode 100644 173168/untitled.iml
+
+Kristijan@DESKTOP-S8ICLHE MINGW64 ~/Desktop/SI_2023_lab1_173168 (master)
+$ git push -u origin master
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (11/11), 1.81 KiB | 1.81 MiB/s, done.
+Total 11 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Kristijan7777/SI_2023_lab1_173168.git
+   d53e187..3368c97  master -> master
+branch 'master' set up to track 'origin/master'.
+
+Kristijan@DESKTOP-S8ICLHE MINGW64 ~/Desktop/SI_2023_lab1_173168 (master)
+$ touch logs.txt
